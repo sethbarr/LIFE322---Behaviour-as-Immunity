@@ -5,11 +5,3 @@
 
 ## LIFE322
 [Seth Barribeau : sethb@liv.ac.uk](mailto:sethb@liv.ac.uk) | 04-03-2019 |
-
-
-----  ----
-
-## Parasites & Pathogens are Everywhere
-<!-- .element: class="no-toc-progress" -->
-
-![](img/Picture1.png)
