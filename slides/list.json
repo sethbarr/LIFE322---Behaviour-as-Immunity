@@ -1,1 +1,10 @@
-["index.md"]
+[
+    "index.md",
+    "slide-title.html",
+    {
+        "filename": "slide-title.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    }
+]
