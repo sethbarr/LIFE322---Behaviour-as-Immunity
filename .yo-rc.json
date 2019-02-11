@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Behaviour as Immunity",
+    "packageVersion": "0.0.0",
+    "revealTheme": "white",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "sethbarr",
+    "githubRepository": "https://github.com/sethbarr/LIFE322---Behaviour-as-Immunity.git"
+  }
+}
