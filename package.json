@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sethbarr/https://github.com/sethbarr/LIFE322---Behaviour-as-Immunity.git.git"
+    "url": "git@github.com:sethbarr/LIFE322---Behaviour-as-Immunity.git"
   },
   "scripts": {
     "test": "grunt test"
