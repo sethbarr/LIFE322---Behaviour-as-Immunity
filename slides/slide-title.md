@@ -1,7 +1,5 @@
-<!-- .slide: data-state="no-toc-progress" --> <!-- don't show toc progress bar on this slide -->
+##  Parasites & Pathogens are Everywhere
 
-# Behaviour as Immunity
-<!-- .element: class="no-toc-progress" --> <!-- slide not in toc progress bar -->
-
-## LIFE322
-[Seth Barribeau : sethb@liv.ac.uk](mailto:sethb@liv.ac.uk) | 04-03-2019 |
+![](slides/img/Picture1.png)
+note:
+    Parasites are likely more common than freeliving life. For every apex predator, there can be dozens of pathogens and parasites that consume it. 
