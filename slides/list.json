@@ -1,10 +1,16 @@
 [
     "index.md",
-    "slide-title.html",
     {
         "filename": "slide-title.md",
         "attr": {
             "data-background": "#fcfcfc"
         }
-    }
+    },
+    "what-is-a-parasite.md",
+    "what-is-a-parasite2.md",
+    "what-is-a-parasite-3.md",
+    "what-is-a-parasite-4.md",
+    "what-is-a-parasite-4b.md",
+    "what-is-a-parasite-5.md",
+    "what-is-a-parasite-4c.md"
 ]
